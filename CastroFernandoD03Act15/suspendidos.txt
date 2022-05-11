@@ -1,0 +1,12 @@
+Programa No.: 4
+Tiempo Estimado: 7
+Transcurrido: 2
+Operacion: 35*17
+Respuesta: 595
+Tiempos
+Llegada: 0
+Finalizacion: -1
+Retorno: -1
+Respuesta: 18
+Espera: 18
+Servicio: -1
